@@ -61,6 +61,8 @@
 - Vocal track
 - Continue solo at D':119 *DONE*
 - Continue solo at G:146 *DONE*
+- Continue solo from I!:204
+- Drums I!:204
 - Finish base structure *DONE*
 
 52:
