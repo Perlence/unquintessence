@@ -1,0 +1,12 @@
+A: 
+U-UU-UU-UU-U
+U-UU-UU-UU-U
+
+B: 
+-UU-UU-UU-U
+-UU-UU-UU
+
+A: 
+U-UU-UU-UU-U
+U-UU
+U-UU-UU-UU
