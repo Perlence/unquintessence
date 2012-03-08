@@ -1,12 +1,12 @@
 A: 
-U-UU-UU-UU-U
-U-UU-UU-UU-U
+x/xx/xx/xx/x
+x/xx/xx/xx/x
 
 B: 
--UU-UU-UU-U
--UU-UU-UU
+/xx/xx/xx/x
+/xx/xx/xx
 
 A: 
-U-UU-UU-UU-U
-U-UU
-U-UU-UU-UU
+x/xx/xx/xx/x
+x/xx
+x/xx/xx/xx
