@@ -2,9 +2,6 @@
 ---
 - Vocal track
 
-08:
---- *DONE*
-
 09:
 ---
 - Solo from D:51 continues throughout whole C:55 and turns in some bend-like at E:61
@@ -12,9 +9,6 @@
 21:
 ---
 - Solo at C:42
-
-22:
---- *DONE*
 
 23:
 ---
@@ -24,9 +18,9 @@
 32:
 ---
 - Vocal track
-- Guitar solo from D!:77 *DONE*
-- Bass *DONE*
-- Finish base structure *DONE*
++ Guitar solo from D!:77
++ Bass
++ Finish base structure
 
 38:
 ---
@@ -34,42 +28,39 @@
 
 39:
 ---
-- Bass track *DONE*
++ Bass track
 - Vocal track
-- Finish base structure *DONE*
++ Finish base structure
 
 42:
 ---
 - Vocal track
-- Bass E:58 *DONE*
++ Bass E:58
 - Guitar solo 141--147 and climax 155--161
-- High bass H:191 *DONE*
-- Finish base structure *DONE*
-
-46:
---- *DONE*
++ High bass H:191
++ Finish base structure
 
 48:
---- *DONE*
-- Vocal changes at B:55 *DONE*
+---
++ Vocal changes at B:55
 
 50:
 ---
-- Guitar II at A:23 *DONE*
++ Guitar II at A:23
 - Customize C:42 (optionally)
-- Bass track
++ Bass track
 - Vocal track
-- Continue solo at D':119 *DONE*
-- Continue solo at G:146 *DONE*
++ Continue solo at D':119
++ Continue solo at G:146
 - Continue solo from I!:204
-- Drums I!:204
-- Finish base structure *DONE*
++ Drums I!:204
++ Finish base structure
 
 52:
 ---
 - Vocal track at A' and B:29
-- Atmospheric soundscapes for Guitar II C:43 *DONE*
-- High-pitched riff E *DONE*
++ Atmospheric soundscapes for Guitar II C:43
++ High-pitched riff E
 
 99:
 ---
