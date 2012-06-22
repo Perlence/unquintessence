@@ -4,11 +4,11 @@
 
 09:
 ---
-- Solo from D:51 continues throughout whole C:55 and turns in some bend-like at E:61
+- Solo from D:51 continues throughout whole C:55 and turns in some bend-like in E:61
 
 21:
 ---
-- Solo at C:42
+- Solo in C:42
 
 23:
 ---
@@ -24,7 +24,7 @@
 
 38:
 ---
-- Vocal track at E:69 and D:97
+- Vocal track in E:69 and D:97
 
 39:
 ---
@@ -36,29 +36,29 @@
 ---
 - Vocal track
 + Bass E:58
-- Guitar solo 141--147 and climax 155--161
+- Guitar solo in 141--147 and climax in 155--161
 + High bass H:191
 + Finish base structure
 
 48:
 ---
-+ Vocal changes at B:55
++ Vocal changes in B:55
 
 50:
 ---
-+ Guitar II at A:23
++ Guitar II in A:23
 - Customize C:42 (optionally)
 + Bass track
 - Vocal track
-+ Continue solo at D':119
-+ Continue solo at G:146
++ Continue solo in D':119
++ Continue solo in G:146
 - Continue solo from I!:204
 + Drums I!:204
 + Finish base structure
 
 52:
 ---
-- Vocal track at A' and B:29
+- Vocal track in A' and B:29
 + Atmospheric soundscapes for Guitar II C:43
 + High-pitched riff E
 
