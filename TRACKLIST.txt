@@ -1,0 +1,17 @@
+// <filename> - <track number> <title>
+
+05 - 14 Year of Empty Rooms
+08 - 01 Stasis
+09 - 03 Confluent
+21 - 07 Wailing Mourn
+22 - 02 The Greatest Time
+23 - 13 Lone Engineer
+32 - 10 Vulture, Warming Throne
+38 - 09 Ego Anthem
+39 - 04 Low Level
+42 - 05 Pits
+46 - 08 Haunted
+48 - 12 Glasshouse
+50 - 11 Golden Bridges
+52 - 06 Council
+99 - 15 Reaping Vestiges
