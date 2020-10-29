@@ -1,6 +1,5 @@
-syntax: glob
-etc/*
+etc/
+ideas/
 .dropbox
 *.sublime-*
 desktop.ini
-ideas/*
